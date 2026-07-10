@@ -1,0 +1,6 @@
+scenario_id,principal,annual_rate_percent,tenure_months,correct_total_interest,correct_total_repayable
+LC001,100000,8,24,16000,116000
+LC002,50000,10,12,5000,55000
+LC003,200000,7.5,36,45000,245000
+LC004,75000,12,18,13500,88500
+LC005,300000,9,60,135000,435000

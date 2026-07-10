@@ -1,0 +1,9 @@
+email_id,email_text,expected_category
+EM001,"Hi, I noticed a transaction on my account for $340 that I don't recognise. I never made this purchase and I'm worried someone has access to my card details. Please investigate urgently.",fraud query
+EM002,"I would like to close my savings account ending in 4471. I've moved my funds to another bank and no longer need this account. Please let me know what forms I need to submit.",account closure request
+EM003,"I'm interested in applying for a home loan. Can you tell me what interest rates you currently offer for a 20-year fixed mortgage and what documents I'd need to provide?",loan inquiry
+EM004,"I was charged a $35 overdraft fee last week but my balance never actually went negative according to my own records. Can someone please review this and refund it if it was charged in error?",fee dispute
+EM005,"Your mobile app has been crashing every time I try to log in for the past three days. This is extremely frustrating as I can't check my balance or pay bills. Please fix this.",general complaint
+EM006,"Someone used my debit card at a store in another state while I was at home. I still have the card in my wallet. I think my card number may have been stolen online.",fraud query
+EM007,"What would my monthly payment be on a $15,000 personal loan over 5 years? Also, is there a penalty for paying it off early?",loan inquiry
+EM008,"I was charged an annual fee on my credit card even though I was told this card had no annual fee when I signed up. I'd like this fee reversed or an explanation.",fee dispute
